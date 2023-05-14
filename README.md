@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunnidhya Roy</h1>
 <h3 align="center">A passionate Computer Science Engineer from India with deep interest and love for Mathematics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sroy96&label=Profile%20views&color=0e75b6&style=flat" alt="sroy96" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sroy96" alt="sroy96" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sunnidhya roy" target="blank"><img src="https://img.shields.io/twitter/follow/sunnidhya roy?logo=twitter&style=for-the-badge" alt="sunnidhya roy" /></a> </p>
-
 - 💬 Ask me about **Android, Flutter, Kotlin, Git and Github, GATE exam**
 
 - 📫 How to reach me **rsunnidhya@gmail.com**
