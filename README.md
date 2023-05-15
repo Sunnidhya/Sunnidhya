@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science Engineer from India with deep interest and love for Mathematics</h3
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sroy96&label=Profile%20views&color=0e75b6&style=flat" alt="sroy96" /> </p>
-<p align="center"> <img src="https://github.com/Sunnidhya/Sunnidhya/blob/main/Github%20profile.gif" alt="sroy96" /> </p>
+<p align="center"> <img src="https://github.com/Sunnidhya/Sunnidhya/blob/main/Github%20Profile.gif" alt="sroy96" /> </p>
 
 - 💬 Ask me about **Android, Flutter, Kotlin, Git and Github, GATE exam**
 
