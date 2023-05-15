@@ -9,11 +9,14 @@
 
 - 📄 Know about my experiences ----> I have completed my undergraduate degree in CS from Netaji Subhash Engineering College in Kolkata post which I have worked as an SDE2 at Johnson Controls from 2018-2022 primarily as a Mobile Developer, towards the end of 2022 decided to pursue a Masters Degree in CS and so currently I am in the transition phase. I occasionally do freelance gigs as well. I am also an avid supporter and slowly trying to contribute to the Open Source Community.
 
+- I am also a co-contributor in a patent entitled "Building system with automatic incident identification". Do checkout my google scholar profile to understand about the project done for the patent.
+
 - ⚡ Fun fact **I am ambidextrous and I know how to play 5 different musical instrument(Guitar, Ukulele, Harmonica, Mandolin, Keyboards)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sunnidhya roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunnidhya roy" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?hl=en&user=fW4J8VIAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="sunnidhya roy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
