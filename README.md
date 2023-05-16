@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Mobile Dev(Android, Flutter, Kotlin, Dart) Git and Github, OOP, Dependency Injection, SOLID Principles, GATE exam**
 
-- 📫 How to reach me **rsunnidhya@gmail.com**
+- 📫 How to reach me **rsunnidhya@gmail.com || sunnidhya.roy@gmail.com**
 
 - 📄 Know about my experiences ----> I have completed my undergraduate degree in CS from Netaji Subhash Engineering College in Kolkata post which I have worked as an SDE2 at Johnson Controls from 2018-2022 primarily as a Mobile Developer, towards the end of 2022 decided to pursue a Masters Degree in CS and so currently I am in the transition phase. I occasionally do freelance gigs as well. I am also an avid supporter and slowly trying to contribute to the Open Source Community.
 
