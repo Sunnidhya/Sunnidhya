@@ -10,6 +10,10 @@
 
 - 📄 Know about my experiences ----> I have completed my undergraduate degree in CS from Netaji Subhash Engineering College in Kolkata post which I have worked as an SDE2 at Johnson Controls from 2018-2022 primarily as a Mobile Developer, towards the end of 2022 decided to pursue a Masters Degree in CS and so currently I am in the transition phase. I occasionally do freelance gigs as well. I am also an avid supporter and slowly trying to contribute to the Open Source Community.
 
+- I am currently doing Competitive Coding in LeetCode, Learning Advanced Data Structures, Brushing up concepts of (Linear Algebra, Calculus, Probability, Discrete Maths, Computer Science Fundamentals and concepts of ML), I am also scanning for Open Source Projects where I can contribute.
+
+- I am open for Freelance work in Android Dev, feel free to reach out if you do have any project would love to contribute!!
+
 - I am also a contributor and a co-author in the patent entitled ["Building system with automatic incident identification"](https://scholar.google.com/citations?hl=en&user=fW4J8VIAAAAJ)
 
 - ⚡ Fun fact **I am ambidextrous and I know how to play 5 different musical instrument(Guitar, Ukulele, Harmonica, Mandolin, Keyboards)**
