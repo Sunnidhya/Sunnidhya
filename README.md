@@ -14,7 +14,7 @@
 
 - I am open for Freelance work in Android Dev, feel free to reach out if you do have any project would love to contribute!!
 
-- I am also a contributor and a co-author in the patent entitled ["Building system with automatic incident identification"](https://scholar.google.com/citations?hl=en&user=fW4J8VIAAAAJ)
+- I am also a contributor and a co-author in the patent entitled ["Building system with automatic incident identification"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fW4J8VIAAAAJ&citation_for_view=fW4J8VIAAAAJ:u5HHmVD_uO8C)
 
 - ⚡ Fun fact **I am ambidextrous and I know how to play 5 different musical instrument(Guitar, Ukulele, Harmonica, Mandolin, Keyboards)**
 
