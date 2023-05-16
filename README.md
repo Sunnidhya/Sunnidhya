@@ -18,6 +18,8 @@
 <p align="left">
 <a href="https://twitter.com/sunnidhya roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunnidhya roy" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?hl=en&user=fW4J8VIAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="sunnidhya roy" height="30" width="40" /></a>
+<a href="https://youtube.com/@sunnidhyaray6944" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="sunnidhya roy" height="30" width="40" /></a>  
+<a href="https://music.youtube.com/channel/UCWEZp3_xA_2tyt9wfWM5V3Q?feature=share" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Youtube_Music_icon.svg" alt="sunnidhya roy" height="30" width="40" /></a>    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
