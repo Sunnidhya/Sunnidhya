@@ -16,7 +16,7 @@
 
 - I am also a contributor and a co-author in the patent titled ["Building system with automatic incident identification"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fW4J8VIAAAAJ&citation_for_view=fW4J8VIAAAAJ:u5HHmVD_uO8C)
 
-- ⚡ Fun fact **I am ambidextrous and I know how to play 4 different musical instrument(Guitar, Ukulele, Harmonica, Mandolin)**
+- ⚡ Fun fact **I am ambidextrous and I know how to play 4 different musical instruments(Guitar, Ukulele, Harmonica, Mandolin)**
 
 <h3 align="left">Socials:</h3>
 <p align="left">
