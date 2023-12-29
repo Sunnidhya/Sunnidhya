@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sroy96&label=Profile%20views&color=0e75b6&style=flat" alt="sroy96" /> </p>
 <p align="center"> <img src="https://github.com/Sunnidhya/Sunnidhya/blob/main/Github%20Profile.gif" alt="sroy96" /> </p>
 
-- 💬 Ask me about **Mobile Dev(Android, Flutter, Kotlin, Dart), MVVM, MVP, SQL, RESTApi, Git and Github, OOP, Dependency Injection, SOLID Principles, GATE exam etc.**
+- 💬 Ask me about **Full Stack Dev(React, NodeJs, SpringBoot, Spring Framework), Mobile Dev(Android, Flutter, Kotlin, Dart), MVVM, MVP, SQL, RESTApi, Git and Github, OOP, Dependency Injection, SOLID Principles, GATE exam etc.**
 
 - 📫 How to reach me **rsunnidhya@gmail.com || sunnidhya.roy@gmail.com**
 
