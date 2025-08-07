@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sunnidhya Roy</h1>
-<h3 align="center">A passionate Computer Science Engineer from India with deep interest and love for Mathematics</h3
+<h3 align="center">A passionate Computer Science Engineer from India with deep interest and love for Mathematics, Computer Science, Philosophy, Cosmos</h3
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sroy96&label=Profile%20views&color=0e75b6&style=flat" alt="sroy96" /> </p>
 <p align="center"> <img src="https://github.com/Sunnidhya/Sunnidhya/blob/main/Github%20Profile.gif" alt="sroy96" /> </p>
 
-- 💬 Ask me about **Full Stack Dev(React, NodeJs, SpringBoot, Spring Framework), Mobile Dev(Android, Flutter, Kotlin, Dart), MVVM, MVP, SQL, RESTApi, Git and Github, OOP, Dependency Injection, SOLID Principles, GATE exam etc.**
-
 - 📫 How to reach me **rsunnidhya@gmail.com || sunnidhya.roy@gmail.com**
 
-- 📄 Know about my experiences ----> I have completed my undergraduate degree in CS from Netaji Subhash Engineering College in Kolkata post which I have worked as an SDE2 at Johnson Controls from 2018-2022 primarily as a Mobile Developer, towards the end of 2022 decided to pursue a Masters Degree in CS and so currently I am in the transition phase. I occasionally do freelance gigs as well. I am also an avid supporter and slowly trying to contribute to the Open Source Community.
+- 📄 Know about my experiences ----> I have completed my undergraduate degree in CS from Netaji Subhash Engineering College in Kolkata post which I have worked as an SDE2 at Johnson Controls from primarily as a software engineer working on various domains like NLP, backend services, mobile dev, towards the end of 2022 decided to pursue a Masters Degree in CS and so currently I am in the transition phase. I occasionally do freelance gigs as well. I am also an avid supporter and slowly trying to contribute to the Open Source Community.
 
 - I am currently doing Competitive Coding in LeetCode, Learning Advanced Data Structures, Brushing up concepts of (Linear Algebra, Calculus, Probability, Discrete Maths, Computer Science Fundamentals and concepts of ML), I am also scanning for Open Source Projects where I can contribute.
 
