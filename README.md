@@ -10,8 +10,6 @@
 
 - I am currently doing Competitive Coding in LeetCode, Learning Advanced Data Structures, Brushing up concepts of (Linear Algebra, Calculus, Probability, Discrete Maths, Computer Science Fundamentals and concepts of ML), I am also scanning for Open Source Projects where I can contribute.
 
-- I am open for Freelance work in Android Dev, feel free to reach out if you do have any project would love to contribute!!
-
 - I am also a contributor and a co-author in the patent titled ["Building system with automatic incident identification"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fW4J8VIAAAAJ&citation_for_view=fW4J8VIAAAAJ:u5HHmVD_uO8C)
 
 - ⚡ Fun fact :: **I am ambidextrous and I know how to play 4 different musical instruments(Guitar, Ukulele, Harmonica, Mandolin)**
