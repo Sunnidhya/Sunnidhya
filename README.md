@@ -1,29 +1,95 @@
 <h1 align="center">Hi 👋, I'm Sunnidhya Roy</h1>
-<h3 align="center">A passionate Computer Science Engineer from India with deep interest and love for Mathematics, Computer Science, Philosophy, Cosmos</h3
-  
+<h3 align="center">AI Engineer with 5+ years of experience, specializing in Generative AI, Agentic Systems, and building scalable AI solutions.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sroy96&label=Profile%20views&color=0e75b6&style=flat" alt="sroy96" /> </p>
 <p align="center"> <img src="https://github.com/Sunnidhya/Sunnidhya/blob/main/Github%20Profile.gif" alt="sroy96" /> </p>
 
-- 📫 How to reach me **rsunnidhya@gmail.com || sunnidhya.roy@gmail.com**
+---
 
-- 📄 Know about my experiences ----> I have completed my undergraduate degree in CS from Netaji Subhash Engineering College in Kolkata post which I have worked as an SDE2 at Johnson Controls from primarily as a software engineer working on various domains like NLP, backend services, mobile dev, towards the end of 2022 decided to pursue a Masters Degree in CS and so currently I am in the transition phase. I occasionally do freelance gigs as well. I am also an avid supporter and slowly trying to contribute to the Open Source Community.
+### 🚀 Professional Summary
 
-- I am currently doing Competitive Coding in LeetCode, Learning Advanced Data Structures, Brushing up concepts of (Linear Algebra, Calculus, Probability, Discrete Maths, Computer Science Fundamentals and concepts of ML), I am also scanning for Open Source Projects where I can contribute.
+I am an **AI Engineer** with 5 years of experience, skilled in deep research, building end-to-end ML pipelines, and scalable AI solutions.
 
-- I am also a contributor and a co-author in the patent titled ["Building system with automatic incident identification"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fW4J8VIAAAAJ&citation_for_view=fW4J8VIAAAAJ:u5HHmVD_uO8C)
+* **Current Focus:** Developing a multimodal **No-Code Agentic AI platform** at IBM Labs, utilizing LLMs, VITs, and Reinforcement Learning. This work currently reduces incident resolution time for IaaS teams from 24 hours to under 1 hour through intelligent triage and self-healing agents.
+* **Expertise:** Agentic AI frameworks, Reinforcement Learning for model alignment (RLHF, PPO), Multimodal systems, and RAG pipelines.
+* **Experience:** Software Developer II at **Johnson Controls**, where I co-developed a patented NLP+CV pipeline for automatic incident detection. I also received the **"Pat on the Back"** award 4 times for exceptional engineering contributions.
 
-- ⚡ Fun fact :: **I am ambidextrous and I know how to play 4 different musical instruments(Guitar, Ukulele, Harmonica, Mandolin)**
+---
+
+### 💡 Research & Advanced Studies
+
+My research interests primarily revolve around developing autonomous, aligned, and efficient AI systems.
+
+* **Agentic AI & Reinforcement Learning (RL):**
+    * Leading research on **autonomous agent behavior** targeting critical automation use cases across various verticals.
+    * Extensive work in developing Agentic flows and using **Reinforcement Learning** for model alignment.
+    * Researched LLM-based agents optimized using **RLHF, PPO, and epsilon-greedy**, focusing on capabilities for **self-reflection** and deep tool reasoning to build scalable autonomous AI systems.
+    * Developed and deployed a modular Multimodal Agentic AI framework that improved flexibility and reduced response latency by over **80%** in incident resolution workflows.
+    * **Relevant Coursework:** Deep Reinforcement Learning.
+
+* **Generative Models & Recommender Systems (RecSys):**
+    * Currently developing a **domain-specific foundation model** for E-Commerce personalization using a BERT-based architecture and Contrastive Learning.
+    * Exploring novel pretext tasks and custom loss functions to improve semantic representation and pretraining efficiency.
+    * Fine-tuned **DistillBERT** on the AmazonReviews23 dataset for multi-label classification, achieving a hit rate of **0.7** using TF-IDF and confidence thresholding.
+    * Built a movie recommendation app (**Moviemate**) using collaborative filtering algorithms.
+    * **Research Interests:** Recommender Systems, Agentic Patterns, and Generative Models.
+    * **Relevant Coursework:** Recommendation System, Self-Supervised Learning.
+
+* **Alignment & RAG:**
+    * Contributed to the open-source **InstructLab** framework, fine-tuning LLMs for education by aligning them to domain-specific datasets.
+    * Boosted chatbot response accuracy to **0.8** and relevance score to **0.9** by developing a Retrieval-Augmented Generation (RAG) pipeline.
+ 
+* **Reinforcement Unlearning:**
+    * Exploring different existing unlearning algorithms like sample space shrinking, poisining etc to understand how unlearning is done
+      also exploring philosophically how unlearning can be achieved.
+    * Exploring novel ways to do unlearning using Measure Theory, Stochastic Calculus, Martingales etc.
+
+---
+
+### 🎓 Education & Background
+
+* **Master of Technology in Artificial Intelligence**
+    * International Institute of Information Technology, Bangalore (IIIT-B)
+    * *Jul 2023 - Jul 2025*
+* **Bachelor of Technology in Computer Science**
+    * Netaji Subhash Engineering College, Kolkata
+    * *Aug 2014 - Jun 2018*
+
+I am also a contributor and a co-author in the patent titled **"Building system with automatic incident identification"**: [Link to Patent]
+
+---
+
+### 🛠️ Key Technical Skills
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, C, C++, Java, JavaScript, Kotlin |
+| **Frameworks & Libs** | PyTorch, Scikit-learn, TensorFlow, Pandas, NumPy, FastAPI, Flask, ReactJS, Next.js, OpenCV |
+| **ML/AI Concepts** | LLMs, ViTs, Reinforcement Learning, RAG, NLP, Computer Vision, Transformers, Contrastive Learning |
+| **DevOps & Cloud** | Docker, Kubernetes, Jenkins, Git, GitHub, CI/CD, GCP, IBM Cloud |
+| **Databases & Tools** | MySQL, PostgreSQL, MongoDB, Elasticsearch, REST APIs, Microservices, OOP |
+
+---
+
+### ⚡ Fun Facts
+
+* I am ambidextrous.
+* I know how to play 4 different musical instruments (Guitar, Ukulele, Harmonica, Mandolin).
+* I received the **"Pat on the Back"** award 4 times at Johnson Controls for exceptional engineering contributions.
+
+---
+
+### 📫 Get in Touch
+
+* **Email:** **rsunnidhya@gmail.com**
 
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/roy1696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunnidhya roy" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?hl=en&user=fW4J8VIAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="sunnidhya roy" height="30" width="40" /></a>
-<a href="https://youtube.com/@sunnidhyaray6944" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="sunnidhya roy" height="30" width="40" /></a>  
-<a href="https://music.youtube.com/channel/UCWEZp3_xA_2tyt9wfWM5V3Q?feature=share" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Youtube_Music_icon.svg" alt="sunnidhya roy" height="30" width="40" /></a>    
+<a href="https://youtube.com/@sunnidhyaray6944" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="sunnidhya roy" height="30" width="40" /></a>  
+<a href="https://music.youtube.com/channel/UCWEZp3_xA_2tyt9wfWM5V3Q?feature=share" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Youtube_Music_icon.svg" alt="sunnidhya roy" height="30" width="40" /></a>    
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
+<h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sroy96&show_icons=true&locale=en&layout=compact" alt="sroy96" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sroy96&" alt="sroy96" /></p>
