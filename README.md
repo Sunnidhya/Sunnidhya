@@ -49,10 +49,8 @@ My research interests primarily revolve around developing autonomous, aligned, a
 
 * **Master of Technology in Artificial Intelligence**
     * International Institute of Information Technology, Bangalore (IIIT-B)
-    * *Jul 2023 - Jul 2025*
 * **Bachelor of Technology in Computer Science**
     * Netaji Subhash Engineering College, Kolkata
-    * *Aug 2014 - Jun 2018*
 
 I am also a contributor and a co-author in the patent titled **"Building system with automatic incident identification"**: [Link to Patent]
 
